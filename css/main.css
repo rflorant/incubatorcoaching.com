@@ -2536,6 +2536,17 @@ input[type="email"],
 }
 
 
+/*  Julie's Image
+============================================== */
+#julie-headshot {
+	background-image: url("../images/headshot2.jpg");
+	background-size: cover;
+	height: 240px;
+	width: 210px;
+	background-color: white;
+}
+
+
 /** 
 /* 13. =footer
 /* =================================================================== */
