@@ -2545,6 +2545,20 @@ input[type="email"],
 	width: 210px;
 	background-color: white;
 }
+/* Certifications
+========================================================*/
+
+.cert {
+	background-color: white;
+	width: 210px;
+	padding: 10px;
+	text-align: center;
+}
+.cert img {
+	padding: 10px;
+}
+
+
 
 
 /** 
@@ -2731,3 +2745,7 @@ footer .social-links li:first-child {
 	position: relative;
 	right: -5px;
 }
+
+@media only screen and (max-width: 770) {
+	#go-to
+} 
