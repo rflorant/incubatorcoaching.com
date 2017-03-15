@@ -1385,8 +1385,24 @@ Quote Section================================================== */
 	font: 25px/30px "raleway-heavy", sans-serif;
 	color: white;
 	text-transform: uppercase;
+	text-align: center;
+	margin: auto;
 }
 
+.slide-toggle p {
+	font-size: smaller; 
+	margin: 0px; 
+	color: rgba(200, 200, 200, .7);
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  
+  border-top: 20px solid rgba(200, 200, 200, .7);
+}
 
 
 /**
